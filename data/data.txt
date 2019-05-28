@@ -1,1 +1,96 @@
 
+[
+{
+"keyword": "hobby",
+"result": "COOKING"
+},
+
+{
+"keyword": "branch MBA",
+"result": "SALES AND MARKETING"
+},
+{
+"keyword": "hobby",
+"result": "PLAYING CRICKET"
+},
+{
+"keyword": "hobby",
+"result": "GYMING"
+},
+{
+"keyword": "hobby",
+"result": "EXPLORING NEW PLACES"
+},
+{
+"keyword": "previous company",
+"result": "SONY"
+},
+{
+"keyword": "previous company",
+"result": "ASUS"
+},
+{
+"keyword": "previous company",
+"result": "VODAFONE"
+},
+{
+"keyword": "previous company",
+"result": "RELIANCE"
+},
+{
+"keyword": "name",
+"result": "VIVEK GAUR"
+},
+{
+"keyword": "Born",
+"result": "MEERUT"
+},
+{
+"keyword": "dob",
+"result": "24th FEBRUARY 1986"
+},
+{
+"keyword": "Date of birth",
+"result": "24th FEBRUARY 1986"
+},
+{
+"keyword": "Post Graduation college",
+"result": "IPM, MEERUT"
+},
+{
+"keyword": "skills",
+"result": "TARGET ORIENTED"
+},
+{
+"keyword": "skills",
+"result": "MOTIVATED"
+},
+{
+"keyword": "skills",
+"result": "NEGOTIATION POWER"
+},
+{
+"keyword": "skills",
+"result": "STRONG COMMUNICATION"
+},
+{
+"keyword": "skills",
+"result": "TEAM PLAYER"
+},
+{
+"keyword": "Love",
+"result": "COOKING"
+},
+{
+"keyword": "Mobile Number",
+"result": "+91-9168240286"
+},
+{
+"keyword": "email id",
+"result": "vivekgaur24@gmail.com"
+},
+{
+"keyword": "love",
+"result": "TRAVELLING"
+}
+]
